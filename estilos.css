@@ -1,0 +1,45 @@
+body{
+    background-color: #f5f5f5
+}
+
+
+header{
+    background-color: #bdbdbd;
+    font-size: 33px;
+    text-align: center;
+    transition: 0.2s ease-in-out;
+    color: #636564;
+    font-style: italic;
+}
+
+.titulo:hover{
+    color: #3c3c4d
+}
+
+nav ul{
+    color: #4a4b4b;
+    font-size: 25px;
+    font-style: italic;
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+nav li{
+    display: inline;
+    margin-right: 20px;
+}
+
+article{
+    border: 1px solid #000000;
+    margin: 10px;
+    font-style: italic;
+    font-size: 20px;
+    color: #3c3c4d;
+}
+
+footer{
+    background-color: #636564;
+    color: white;
+    text-align: center;
+}
